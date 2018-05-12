@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34273'
     url: http://www.gutenberg.org/2009/agents/34273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29963#Goodbye-Dead-Man-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-12'
 gutenberg_type: Text
